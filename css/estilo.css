@@ -1,0 +1,24 @@
+.col {
+    background-color: aqua;
+    margin: 0.2rem;
+}
+
+.col-sm-6 {
+    background-color: red;
+    margin: 0.2rem;
+}
+
+.col-md-4 {
+    background-color: green;
+    margin: 0.2rem;
+}
+
+.col-lg-3 {
+    background-color: yellowgreen;
+    margin: 0.2rem;
+}
+
+.col-xl-2 {
+    background-color: chocolate;
+    margin: 0.2rem;
+}
